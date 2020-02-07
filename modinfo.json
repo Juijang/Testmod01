@@ -1,0 +1,16 @@
+{
+	"name": "Testmod01",
+	"description": "0 HP Testmod",
+	"changeNote": "",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 5,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1690306430",
+	"steamVisibility": 0,
+	"folderName": "Testmod01",
+	"revisionNumber": 125790,
+	"snapshotId": 20708
+}
